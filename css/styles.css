@@ -12,7 +12,7 @@ html {
     box-sizing: border-box;
     scroll-snap-type: y mandatory;
 }
-.nav-main,
+.nav-bg,
 .services,
 .form,
 .footer {
